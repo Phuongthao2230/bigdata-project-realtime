@@ -15,3 +15,5 @@ for msg in consumer:
     # Xử lý dữ liệu như mong muốn
     print("=============")
     print(streaming_data)
+
+# end
